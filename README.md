@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi everyone 👋
+
+My name is Almos, and I am an OSINT enthusiast and cyber security student, creating python scripts to support OSINT investigations.
+
+I am currently working on a project, where the program can check if a website has any new updates since the last one, and if there is any new content, it sends an email with a screenshot.
 
 <!--
 **osintforyou/osintforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
